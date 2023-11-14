@@ -1,0 +1,6 @@
+C:\Users\juanm\Documents\Visual Studio 2022\Proyectos\TpCapas_ADONet\DATOS\bin\Debug\DATOS.dll
+C:\Users\juanm\Documents\Visual Studio 2022\Proyectos\TpCapas_ADONet\DATOS\bin\Debug\DATOS.pdb
+C:\Users\juanm\Documents\Visual Studio 2022\Proyectos\TpCapas_ADONet\DATOS\obj\Debug\CapaDATOS.csproj.AssemblyReference.cache
+C:\Users\juanm\Documents\Visual Studio 2022\Proyectos\TpCapas_ADONet\DATOS\obj\Debug\CapaDATOS.csproj.CoreCompileInputs.cache
+C:\Users\juanm\Documents\Visual Studio 2022\Proyectos\TpCapas_ADONet\DATOS\obj\Debug\DATOS.dll
+C:\Users\juanm\Documents\Visual Studio 2022\Proyectos\TpCapas_ADONet\DATOS\obj\Debug\DATOS.pdb

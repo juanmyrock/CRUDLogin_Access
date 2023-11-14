@@ -1,0 +1,9 @@
+C:\Users\juanm\Documents\Visual Studio 2022\Proyectos\TpCapas_ADONet\LOGICA\bin\Debug\LOGICA.dll
+C:\Users\juanm\Documents\Visual Studio 2022\Proyectos\TpCapas_ADONet\LOGICA\bin\Debug\LOGICA.pdb
+C:\Users\juanm\Documents\Visual Studio 2022\Proyectos\TpCapas_ADONet\LOGICA\bin\Debug\DATOS.dll
+C:\Users\juanm\Documents\Visual Studio 2022\Proyectos\TpCapas_ADONet\LOGICA\bin\Debug\DATOS.pdb
+C:\Users\juanm\Documents\Visual Studio 2022\Proyectos\TpCapas_ADONet\LOGICA\obj\Debug\CapaLOGICA.csproj.AssemblyReference.cache
+C:\Users\juanm\Documents\Visual Studio 2022\Proyectos\TpCapas_ADONet\LOGICA\obj\Debug\CapaLOGICA.csproj.CoreCompileInputs.cache
+C:\Users\juanm\Documents\Visual Studio 2022\Proyectos\TpCapas_ADONet\LOGICA\obj\Debug\CapaLOGICA.csproj.CopyComplete
+C:\Users\juanm\Documents\Visual Studio 2022\Proyectos\TpCapas_ADONet\LOGICA\obj\Debug\LOGICA.dll
+C:\Users\juanm\Documents\Visual Studio 2022\Proyectos\TpCapas_ADONet\LOGICA\obj\Debug\LOGICA.pdb

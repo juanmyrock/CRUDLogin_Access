@@ -1,0 +1,6 @@
+C:\Users\juanm\Documents\Visual Studio 2022\Proyectos\TpCapas_ADONet\SERVICIOS\bin\Debug\SERVICIOS.dll
+C:\Users\juanm\Documents\Visual Studio 2022\Proyectos\TpCapas_ADONet\SERVICIOS\bin\Debug\SERVICIOS.pdb
+C:\Users\juanm\Documents\Visual Studio 2022\Proyectos\TpCapas_ADONet\SERVICIOS\obj\Debug\CapaSERVICIOS.csproj.AssemblyReference.cache
+C:\Users\juanm\Documents\Visual Studio 2022\Proyectos\TpCapas_ADONet\SERVICIOS\obj\Debug\CapaSERVICIOS.csproj.CoreCompileInputs.cache
+C:\Users\juanm\Documents\Visual Studio 2022\Proyectos\TpCapas_ADONet\SERVICIOS\obj\Debug\SERVICIOS.dll
+C:\Users\juanm\Documents\Visual Studio 2022\Proyectos\TpCapas_ADONet\SERVICIOS\obj\Debug\SERVICIOS.pdb
